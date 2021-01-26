@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "basics": {
+    "name": "Benjamin M Findeisen",
+    "label": "",
+    "picture": "",
+    "email": "benfindeisen@gmail.com",
+    "degree": "B.S. Industrial Distribution and Engineering Technology",
+    "summary": "Stay Hungry -- Passionate about software engineering, blockchain technology, and writing",
+    "highlights": null,
+    "location": {
+      "address": "11121 Grey Park Dr.",
+      "postalCode": "78249",
+      "city": "San Antonio",
+      "countryCode": "",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance Development",
+      "position": "iOS Developer",
+      "website": "",
+      "startDate": "Mar 2020",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Contract assignment to develop complex iPhone and iPad app for fetching and displaying hymn lyrics, associated MP3s, and sheet music for iOS devices. Co-working with a partner to define the scope, architect the software suite, and implement in code. We are writing the app using Apple's cutting edge SwiFUI + Combine framework.",
+        "Reviewing code and managing the testing suite, while working in close collaboraHon with project owner and designer"
+      ]
+    },
+        {
+      "company": "Full Time Training in Anaheim",
+      "position": "Team Lead, Software Development",
+      "website": "",
+      "startDate": "Feb 2017",
+      "endDate": "Jan 2020",
+      "summary": "",
+      "highlights": [
+        "Recruiting, coaching, and leading a team of 11 software engineers, 2 project managers, and 2 designers in a rewrite of a 12-year old legacy enterprise web application powering the school’s entire administrative backbone serving 400+ users",
+        "Contract assignment to develop complex iPhone and iPad app for fetching and displaying hymn lyrics, associated MP3s, and sheet music for iOS devices. Co-working with a partner to define the scope, architect the soFware suite, and implement in code. We are writing the app using Apple's cuKng edge SwiFUI + Combine framework.",
+        "Reviewing code and managing the testing suite, while working in close collaboration with project owner and designer",
+        "Led the 4 year long project live into production halfway through time and managed transition into a successful launch",
+        "Tech Stack: Ubuntu, PostgreSQL, jQuery/React.js, Webpack + npm, PHP, Python"
+      ]
+    },
+            {
+      "company": "Applied Materials",
+      "position": "Materials Project Manager, Global Supply Chain",
+      "website": "",
+      "startDate": "Jul 2015",
+      "endDate": "Jan 2017",
+      "summary": "",
+      "highlights": [
+        "Lead 20+ suppliers transition onto new consignment program reducing high priority part lead times and cost reduction",
+        "Manage and analysis of multiple hot lists to support all business units material shortages",
+        "Assist with contract negotiations and lead time reduction programs",
+        "Worked 12 months as a ECO Planner for ETCH, 6 months as a Materials Project Manager for Global Supply Chain, and 3 months as a Buyer  ",
+        "Ensured proper disposition of Engineering Change Orders to reduce inventory exposure"
+      ]
+    },
+                {
+      "company": "Supply Chain Laboratory: Talent Incubator Program",
+      "position": "Student Researcher",
+      "website": "",
+      "startDate": "Aug 2014",
+      "endDate": "May 2015",
+      "summary": "",
+      "highlights": [
+        "Applied industrial engineering research role to provide consulting recommendations for a global electronics distributor executives with a top down analysis to improve value offerings",
+        "Extensive application of research including competitive analysis, vertical market, and adjacent product line opportunities in order to exploit market gaps to sponsoring company executives"
+      ]
+    }
+
+  ],
+  "workLabel": "",
+  "additionalWorkLabel": "",
+  "education": [
+    {
+      "institution": "Texas A&M University",
+      "area": "College Station, TX",
+      "studyType": "B.S. Industrial Distribution and Engineering Technology",
+      "startDate": "Aug 2011",
+      "endDate": "May 2015",
+      "gpa": "3.4 GPA",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+
+
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ]
+}

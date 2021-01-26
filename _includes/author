@@ -28,4 +28,14 @@
       {% assign author_twitter = site.twitter_username %}
     {% endif %}
   {% endif %}
+
+  {% if author.facebook %}
+    {% assign author_facebook = author.facebook %}
+  {% else %}
+    {% if site.data.authors and site.data.authors[author] %}
+      {% assign author_facebook = site.data.authors[author].facebook %}
+    {% else %}
+      {% assign author_facebook = site.facebook_username %}
+    {% endif %}
+  {% endif %}
 {% endif %}
