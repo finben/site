@@ -1,5 +1,7 @@
 ---
-title: Consistency and Monotany 
+title: "Consistency and Monotany"
+categories:
+	- Post Formats 
 tags:
 	- observation
 ---
